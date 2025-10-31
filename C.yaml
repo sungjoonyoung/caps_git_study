@@ -2,6 +2,8 @@ team : C
 
 manager: banana
 
+coach: grape
+
 members:
 - m1
 - m2
